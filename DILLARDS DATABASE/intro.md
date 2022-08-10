@@ -43,7 +43,11 @@ Due to confidentiality purposes, I won't be able to share the data. I'll post my
 Key takeaways:
 
 Learning how to split large, complex problems into smaller problems and reassemling later
+
 Checking seasonal trends using month, year-aggregations, or standard deviations
+
 Detecting outliers and missing data
+
 Handling outliers and missing data by setting criterias in subqueries
+
 Difference between the syntax for MySQL, Teradata
