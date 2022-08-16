@@ -39,7 +39,7 @@ b. which department of a store has greatest decrease in average daily revenue fr
 
 Due to confidentiality purposes, I won't be able to share the data. I'll post my queries along with descriptions of what I tried to do with the query.
 
-Key takeaways:
+# Key takeaways:
 
 Learning how to split large, complex problems into smaller problems and reassemling later
 
