@@ -12,7 +12,6 @@ SPAP (Structured Pyramid Analysis Plan)
 
 # Analysing Dillards sales data to study customer purchasing patterns
 
-As part of the course - 'Managing Big Data using MySQL' offered by Duke University, I learned to translate analysis questions into SQL queries.
 
 Analysis Question: What factors affect customer purchasing at Dillards
 
